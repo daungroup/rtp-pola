@@ -18,10 +18,7 @@
     --g2: #440603;
  }
 
-body {
-    background: var(--bg-color);
-    color: var(--text-first);
-}
+
 
 .logo img {
     width: 19rem;
@@ -44,7 +41,7 @@ body {
     align-items: center;
     border-radius: 5px;
     margin-bottom: 0.7rem;
-    position: relative;
+    
     z-index: 1;
 }
 
